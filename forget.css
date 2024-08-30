@@ -1,0 +1,50 @@
+.child{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 1px solid black;
+    border-radius: 50px;
+    height:500px ;
+    width:500px;
+    place-items: center;
+    justify-content: center;
+     text-align: center;
+     align-self: center;
+     align-content: center;
+}
+
+
+.child input[type="text"],
+.child input[type="password"]{
+    opacity: 2.5;
+    display: block;
+    outline: none;
+    width: 40%;
+    padding: 8px 10px;
+    margin: 20px,0px,0px;
+    font: size 8px;
+    background-color: rgb(238, 223, 223);
+    border-radius: 100px;
+    color: rgb(0, 0, 0);
+    align-self: middle;
+}
+ button{
+        opacity: 2.5;
+        display: block;
+        outline: none;
+        width: 60%;
+        padding: 8px 10px;
+        margin: 20px,0px,0px;
+        font: size 15px;
+        background: linear-gradient(144deg, #f70202,#18049b,#29e703);
+        border-radius: 100px;
+        color: white;
+    
+    }
+    h1.don{
+        text-align: center;
+    }
+    form{
+        align-items: center;
+    }

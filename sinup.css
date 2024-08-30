@@ -1,0 +1,18 @@
+.sinup{
+    border: 1px solid black;
+    border-radius: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.sinup:hover{
+    color: rgb(131, 129, 126);
+     height: 400px;
+     width: 400px;
+     justify-content: center;
+     text-align: center;
+     align-self: center;
+     align-content: center;
+}
